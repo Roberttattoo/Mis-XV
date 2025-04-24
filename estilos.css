@@ -1,0 +1,39 @@
+@charset "UTF-8";
+body {
+	background: #92ac8f;
+	transition: background-color 1s ease;
+}
+h1 {
+	text-align:center;
+	font-family: 'Great Vibes', cursive;
+	font-size: 40px;
+}
+img {
+	display: block;
+	margin: 10px auto;
+	width: 390px;
+}
+p {
+	font-family: 'Great Vibes', cursive;
+	text-align: center;
+}
+.contenedor-video {
+	background-color: white;
+	padding: 15px;
+	display: inline-block;
+	border-radius: 10px;
+	box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+.ConfirmarAsistencia {
+	color: aliceblue;
+}
+.Porfavor {
+	color: aliceblue;
+}
+.regalos {
+	color: aliceblue;
+}
+.agradecimiento {
+	color: aliceblue;
+}
